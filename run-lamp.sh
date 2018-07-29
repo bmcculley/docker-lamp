@@ -31,13 +31,6 @@ fi
 # stdout server info:
 if [ ! $LOG_STDOUT ]; then
 cat << EOB
-    
-    **********************************************
-    *                                            *
-    *    Docker image: fauria/lamp               *
-    *    https://github.com/fauria/docker-lamp   *
-    *                                            *
-    **********************************************
 
     SERVER SETTINGS
     ---------------
